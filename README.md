@@ -22,13 +22,13 @@ imprimir(SOMA);
 ```
 Ao final do processamento, qual será o valor da variável SOMA?
 
-Answer = 91
+- [Answer(coded here)](https://github.com/mcpmarcos/Target-Challenge/blob/main/src/AddingChallenge.java) = 91
 
 ## Chalenge 02
 
 Dado a sequência de Fibonacci, onde se inicia por 0 e 1 e o próximo valor sempre será a soma dos 2 valores anteriores (exemplo: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34...), escreva um programa na linguagem que desejar onde, informado um número, ele calcule a sequência de Fibonacci e retorne uma mensagem avisando se o número informado pertence ou não a sequência. 
 
-- [Answer coded here.](https://github.com/mcpmarcos/local-repo)
+- [Answer coded here.](https://github.com/mcpmarcos/Target-Challenge/blob/main/src/FibonacciChallenge.java)
 
 ## Chalenge 03
 
@@ -70,14 +70,17 @@ Você está em uma sala com três interruptores, cada um conectado a uma lâmpad
 Como você faria para descobrir, usando apenas duas idas até uma das salas das lâmpadas, qual interruptor controla cada lâmpada?
 
 ```
-Turn on one of the switches and wait until the lamp heats up a little. Turn off and on a second switch. Go to the room. The off and hot bulb corresponds to the first switch, the on bulb to the second and the off and cold bulb to the third. Just go to the second room and you will be able to deduce which switch is in each room.
+Turn on one of the switches and wait until the lamp heats up a little. Turn off and on a second switch. Go to the room.
+The off and hot bulb corresponds to the first switch, the on bulb to the second and the off and cold bulb to the third.
+Just go to the second room and you will be able to deduce which switch is in each room.
+
 ```
 
 ## Chalenge 05
 
 Escreva um programa que inverta os caracteres de um string.
 
-- [Answer coded here.](https://github.com/mcpmarcos/local-repo)
+- [Answer coded here.](https://github.com/mcpmarcos/Target-Challenge/blob/main/src/InverseStringChallenge.java)
 
 
 
