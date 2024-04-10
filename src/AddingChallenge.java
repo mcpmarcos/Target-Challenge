@@ -1,5 +1,5 @@
 
-public class DesafioSoma {
+public class AddingChallenge {
 
 	public static void main(String[] args) {
 		int indice = 13, soma = 0, k = 0;

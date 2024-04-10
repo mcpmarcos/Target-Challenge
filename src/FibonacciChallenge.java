@@ -1,8 +1,13 @@
-public class DesafioFibonacci {
+import java.util.Scanner;
+
+public class FibonacciChallenge {
 
 	public static void main(String[] args) {
-		int inicialNumber = 13;
+		Scanner read = new Scanner(System.in);
+		System.out.println("Inform the inicial number of the sequence: ");
+		int inicialNumber = read.nextInt();
 		generateCustomFibonacciSequence(inicialNumber);
+		read.close();
 	}
 	
 	public static void generateCustomFibonacciSequence(int inicialNumber){

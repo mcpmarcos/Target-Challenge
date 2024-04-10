@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class DesafioString {
+public class InverseStringChallenge {
 	
 	public static void main(String[] args) {
 		String txt = getString();
@@ -8,7 +8,7 @@ public class DesafioString {
     }
     public static String getString() {
 		Scanner read = new Scanner(System.in);
-		System.out.println("Informe o seu nome: ");
+		System.out.println("Inform your name, or say something: ");
 		return read.nextLine(); 		
 	}
 	
